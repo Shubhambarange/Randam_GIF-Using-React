@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Randam_GIF-Using-React/static/css/main.8fa6d027.css",
+    "main.js": "/Randam_GIF-Using-React/static/js/main.be25e785.js",
+    "index.html": "/Randam_GIF-Using-React/index.html",
+    "main.8fa6d027.css.map": "/Randam_GIF-Using-React/static/css/main.8fa6d027.css.map",
+    "main.be25e785.js.map": "/Randam_GIF-Using-React/static/js/main.be25e785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa6d027.css",
+    "static/js/main.be25e785.js"
+  ]
+}
